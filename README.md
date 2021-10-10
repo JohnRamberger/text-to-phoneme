@@ -17,3 +17,5 @@ Also, I am proud that I completed a node.js application since that is not my go-
 I learned just how hard it is to work with audio files. Working with raw audio data is such a hassle, so I just could not edit and filter my audio clips within the program. I ended up relying on the library FFmpeg for most of my audio dealings. 
 ## What's next for text to phonemes
 One implementation that would improve the output of the program is a word-splitter. Large words such as skyrocketing don't sound correct, but when split up into their base words such as sky and rocket, they sound much more accurate. 
+### Try it Out
+simply clone the repository and run the command `npm run say whatever you want the bot to say.`, and that's it. The program will output the audio file to the /out/ folder in the repository.
