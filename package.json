@@ -1,11 +1,10 @@
 {
-  "name": "phonetics",
+  "name": "text-to-phoneme",
   "version": "1.0.0",
-  "description": "",
+  "description": "converts text to its phoneme counterpart using audioclips.",
   "main": "index.js",
   "scripts": {
     "say": "node index.js",
-    "gen": "node generate.js",
     "encode": "node encode.js"
   },
   "keywords": [],
